@@ -1,0 +1,3053 @@
+[
+{
+    "employee": {
+        "id": "E00001",
+        "name": "Matthew Snyder",
+        "position": "Firefighter",
+        "department": {
+            "id": "D057",
+            "name": "Iterate",
+            "manager": {
+                "id": "M4270",
+                "name": "Darren Williams",
+                "contact": {
+                    "email": "granttony@example.org",
+                    "phone": "941-201-1906"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P7243",
+                "projectName": "Reverse-engineered heuristic initiative",
+                "startDate": "2025-05-18",
+                "tasks": [
+                    {
+                        "taskId": "T878",
+                        "title": "Innovate Virtual Partnerships",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 63,
+                            "technologiesUsed": [
+                                "JavaScript",
+                                "SQL"
+                            ]
+                        }
+                    },
+                    {
+                        "taskId": "T236",
+                        "title": "Maximize Enterprise Applications",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 48,
+                            "technologiesUsed": [
+                                "PyTorch",
+                                "Scikit-learn",
+                                "NumPy",
+                                "Java"
+                            ],
+                            "completionDate": "2025-08-05"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00002",
+        "name": "David Carter",
+        "position": "Economist",
+        "department": {
+            "id": "D066",
+            "name": "Evolve",
+            "manager": {
+                "id": "M1694",
+                "name": "Jeff Shannon",
+                "contact": {
+                    "email": "parkjessica@example.com",
+                    "phone": "+1-699-220-8605x94326"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P8413",
+                "projectName": "Enterprise-wide clear-thinking hardware",
+                "startDate": "2024-10-04",
+                "tasks": [
+                    {
+                        "taskId": "T489",
+                        "title": "Maximize Magnetic Experiences",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 74,
+                            "technologiesUsed": [
+                                "Pandas",
+                                "Python",
+                                "SQL",
+                                "PyTorch"
+                            ],
+                            "completionDate": "2024-11-19"
+                        }
+                    },
+                    {
+                        "taskId": "T978",
+                        "title": "Exploit Enterprise Networks",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 27,
+                            "technologiesUsed": [
+                                "Python",
+                                "SQL",
+                                "Java",
+                                "Kubernetes"
+                            ],
+                            "expectedCompletion": "2025-08-27"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00003",
+        "name": "Carol Durham",
+        "position": "Air traffic controller",
+        "department": {
+            "id": "D024",
+            "name": "Disintermediate",
+            "manager": {
+                "id": "M1993",
+                "name": "Larry Willis",
+                "contact": {
+                    "email": "johnsonkyle@example.com",
+                    "phone": "803-964-8605"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P7760",
+                "projectName": "Intuitive empowering solution",
+                "startDate": "2025-01-09",
+                "tasks": [
+                    {
+                        "taskId": "T641",
+                        "title": "Orchestrate Revolutionary Info-Mediaries",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 72,
+                            "technologiesUsed": [
+                                "Scikit-learn",
+                                "Python",
+                                "SQL"
+                            ]
+                        }
+                    },
+                    {
+                        "taskId": "T912",
+                        "title": "Empower Open-Source Paradigms",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 24,
+                            "technologiesUsed": [
+                                "NumPy",
+                                "SQL",
+                                "Pandas"
+                            ],
+                            "expectedCompletion": "2025-09-02"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00004",
+        "name": "Peter Johnson",
+        "position": "Volunteer coordinator",
+        "department": {
+            "id": "D072",
+            "name": "Iterate",
+            "manager": {
+                "id": "M9295",
+                "name": "Antonio Wallace",
+                "contact": {
+                    "email": "vdaniels@example.net",
+                    "phone": "851.718.5604x95822"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P8523",
+                "projectName": "Phased fault-tolerant standardization",
+                "startDate": "2024-10-01",
+                "tasks": [
+                    {
+                        "taskId": "T953",
+                        "title": "Expedite Frictionless Portals",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 36,
+                            "technologiesUsed": [
+                                "Kubernetes",
+                                "Python",
+                                "TensorFlow",
+                                "SQL"
+                            ],
+                            "completionDate": "2024-12-20"
+                        }
+                    },
+                    {
+                        "taskId": "T787",
+                        "title": "Maximize User-Centric Supply-Chains",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 72,
+                            "technologiesUsed": [
+                                "NumPy",
+                                "SQL",
+                                "Scikit-learn"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00005",
+        "name": "Stacy Jacobson",
+        "position": "Patent attorney",
+        "department": {
+            "id": "D022",
+            "name": "E-enable",
+            "manager": {
+                "id": "M3295",
+                "name": "Jeffrey Stone",
+                "contact": {
+                    "email": "ismith@example.com",
+                    "phone": "+1-587-507-6404x392"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P5062",
+                "projectName": "Expanded executive open architecture",
+                "startDate": "2025-02-10",
+                "tasks": [
+                    {
+                        "taskId": "T724",
+                        "title": "Reinvent Bleeding-Edge Markets",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 74,
+                            "technologiesUsed": [
+                                "TensorFlow",
+                                "Pandas"
+                            ],
+                            "expectedCompletion": "2025-08-28"
+                        }
+                    },
+                    {
+                        "taskId": "T491",
+                        "title": "Aggregate World-Class Solutions",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 58,
+                            "technologiesUsed": [
+                                "Kubernetes",
+                                "JavaScript"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00006",
+        "name": "Kimberly Perez",
+        "position": "Programme researcher, broadcasting/film/video",
+        "department": {
+            "id": "D064",
+            "name": "Evolve",
+            "manager": {
+                "id": "M6463",
+                "name": "John Martinez",
+                "contact": {
+                    "email": "kristy94@example.org",
+                    "phone": "356-239-3099x885"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P1182",
+                "projectName": "Monitored didactic strategy",
+                "startDate": "2025-02-06",
+                "tasks": [
+                    {
+                        "taskId": "T608",
+                        "title": "Streamline Seamless Info-Mediaries",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 19,
+                            "technologiesUsed": [
+                                "Pandas",
+                                "Scikit-learn"
+                            ],
+                            "completionDate": "2025-03-17"
+                        }
+                    },
+                    {
+                        "taskId": "T543",
+                        "title": "Integrate Virtual Roi",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 54,
+                            "technologiesUsed": [
+                                "Kubernetes",
+                                "TensorFlow",
+                                "SQL"
+                            ],
+                            "completionDate": "2025-04-28"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00007",
+        "name": "Samantha Ochoa",
+        "position": "Museum/gallery curator",
+        "department": {
+            "id": "D047",
+            "name": "Benchmark",
+            "manager": {
+                "id": "M7344",
+                "name": "Belinda Johnson",
+                "contact": {
+                    "email": "paul85@example.com",
+                    "phone": "8425702180"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P9163",
+                "projectName": "Re-engineered contextually-based methodology",
+                "startDate": "2025-02-06",
+                "tasks": [
+                    {
+                        "taskId": "T478",
+                        "title": "Scale Holistic Bandwidth",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 50,
+                            "technologiesUsed": [
+                                "TensorFlow",
+                                "NumPy",
+                                "Scikit-learn"
+                            ],
+                            "expectedCompletion": "2025-08-29"
+                        }
+                    },
+                    {
+                        "taskId": "T154",
+                        "title": "Embrace Robust Partnerships",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 29,
+                            "technologiesUsed": [
+                                "Python",
+                                "PyTorch"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00008",
+        "name": "Rachel Carey",
+        "position": "Chief Executive Officer",
+        "department": {
+            "id": "D046",
+            "name": "Syndicate",
+            "manager": {
+                "id": "M9023",
+                "name": "Kristin Cooke",
+                "contact": {
+                    "email": "jeffreypeterson@example.org",
+                    "phone": "(686)930-9969x24039"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P3668",
+                "projectName": "Front-line interactive policy",
+                "startDate": "2025-04-13",
+                "tasks": [
+                    {
+                        "taskId": "T167",
+                        "title": "Brand Back-End Web Services",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 68,
+                            "technologiesUsed": [
+                                "Scikit-learn",
+                                "Python",
+                                "JavaScript",
+                                "Java"
+                            ]
+                        }
+                    },
+                    {
+                        "taskId": "T163",
+                        "title": "Mesh End-To-End Mindshare",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 56,
+                            "technologiesUsed": [
+                                "TensorFlow",
+                                "Kubernetes",
+                                "Java"
+                            ],
+                            "completionDate": "2025-05-13"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00009",
+        "name": "George Cervantes",
+        "position": "Hospital doctor",
+        "department": {
+            "id": "D043",
+            "name": "Incubate",
+            "manager": {
+                "id": "M6286",
+                "name": "Nicole Coleman",
+                "contact": {
+                    "email": "brownwilliam@example.com",
+                    "phone": "001-856-536-4629"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P5405",
+                "projectName": "Reactive uniform solution",
+                "startDate": "2024-10-02",
+                "tasks": [
+                    {
+                        "taskId": "T267",
+                        "title": "Enhance Magnetic Web Services",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 14,
+                            "technologiesUsed": [
+                                "Python",
+                                "TensorFlow",
+                                "Java"
+                            ]
+                        }
+                    },
+                    {
+                        "taskId": "T338",
+                        "title": "Matrix Seamless E-Services",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 78,
+                            "technologiesUsed": [
+                                "TensorFlow",
+                                "PyTorch",
+                                "Python",
+                                "Java"
+                            ],
+                            "completionDate": "2024-11-05"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00010",
+        "name": "Carolyn Mcguire",
+        "position": "Medical sales representative",
+        "department": {
+            "id": "D020",
+            "name": "Embrace",
+            "manager": {
+                "id": "M5578",
+                "name": "Anita Schwartz",
+                "contact": {
+                    "email": "olarsen@example.org",
+                    "phone": "698.946.7237x3450"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P9568",
+                "projectName": "Organized full-range emulation",
+                "startDate": "2025-03-04",
+                "tasks": [
+                    {
+                        "taskId": "T399",
+                        "title": "Brand Cross-Media Functionalities",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 10,
+                            "technologiesUsed": [
+                                "JavaScript",
+                                "SQL",
+                                "TensorFlow",
+                                "Python"
+                            ],
+                            "completionDate": "2025-05-02"
+                        }
+                    },
+                    {
+                        "taskId": "T123",
+                        "title": "Strategize Efficient Markets",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 78,
+                            "technologiesUsed": [
+                                "TensorFlow",
+                                "SQL"
+                            ],
+                            "expectedCompletion": "2025-08-18"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00011",
+        "name": "Jennifer Lane",
+        "position": "Librarian, academic",
+        "department": {
+            "id": "D047",
+            "name": "Scale",
+            "manager": {
+                "id": "M5979",
+                "name": "Anthony Chan",
+                "contact": {
+                    "email": "cmacdonald@example.org",
+                    "phone": "(970)354-1095x84351"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P5211",
+                "projectName": "Customizable asynchronous middleware",
+                "startDate": "2025-03-27",
+                "tasks": [
+                    {
+                        "taskId": "T982",
+                        "title": "Visualize Leading-Edge Deliverables",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 19,
+                            "technologiesUsed": [
+                                "Python",
+                                "PyTorch"
+                            ],
+                            "expectedCompletion": "2025-09-01"
+                        }
+                    },
+                    {
+                        "taskId": "T948",
+                        "title": "Brand Rich Metrics",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 75,
+                            "technologiesUsed": [
+                                "Kubernetes",
+                                "TensorFlow",
+                                "SQL"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00012",
+        "name": "Krista Williams",
+        "position": "Psychiatrist",
+        "department": {
+            "id": "D050",
+            "name": "Visualize",
+            "manager": {
+                "id": "M2988",
+                "name": "Tonya Hernandez",
+                "contact": {
+                    "email": "adamanderson@example.org",
+                    "phone": "5902748266"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P1982",
+                "projectName": "Open-source stable matrices",
+                "startDate": "2025-07-31",
+                "tasks": [
+                    {
+                        "taskId": "T188",
+                        "title": "Reinvent Seamless Experiences",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 73,
+                            "technologiesUsed": [
+                                "SQL",
+                                "TensorFlow",
+                                "PyTorch"
+                            ],
+                            "completionDate": "2025-09-03"
+                        }
+                    },
+                    {
+                        "taskId": "T892",
+                        "title": "Aggregate Rich E-Business",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 29,
+                            "technologiesUsed": [
+                                "Scikit-learn",
+                                "SQL"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00013",
+        "name": "Antonio Lozano",
+        "position": "Production manager",
+        "department": {
+            "id": "D008",
+            "name": "Enable",
+            "manager": {
+                "id": "M8536",
+                "name": "Lawrence Crawford",
+                "contact": {
+                    "email": "hfreeman@example.org",
+                    "phone": "001-216-286-3216x48494"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P7472",
+                "projectName": "Versatile asymmetric data-warehouse",
+                "startDate": "2025-01-24",
+                "tasks": [
+                    {
+                        "taskId": "T513",
+                        "title": "Matrix Holistic Infrastructures",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 74,
+                            "technologiesUsed": [
+                                "Python",
+                                "Kubernetes"
+                            ],
+                            "expectedCompletion": "2025-08-19"
+                        }
+                    },
+                    {
+                        "taskId": "T332",
+                        "title": "Envisioneer Synergistic Methodologies",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 33,
+                            "technologiesUsed": [
+                                "Pandas",
+                                "Java",
+                                "TensorFlow"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00014",
+        "name": "Lisa Johnston",
+        "position": "Geologist, engineering",
+        "department": {
+            "id": "D057",
+            "name": "Reinvent",
+            "manager": {
+                "id": "M2155",
+                "name": "Joe Snow DVM",
+                "contact": {
+                    "email": "isaacstark@example.org",
+                    "phone": "+1-250-497-7925x356"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P8839",
+                "projectName": "Multi-lateral holistic infrastructure",
+                "startDate": "2025-05-11",
+                "tasks": [
+                    {
+                        "taskId": "T684",
+                        "title": "Streamline Intuitive Web Services",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 10,
+                            "technologiesUsed": [
+                                "Scikit-learn",
+                                "NumPy"
+                            ],
+                            "completionDate": "2025-07-13"
+                        }
+                    },
+                    {
+                        "taskId": "T469",
+                        "title": "Drive Back-End Architectures",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 31,
+                            "technologiesUsed": [
+                                "Pandas",
+                                "PyTorch",
+                                "SQL",
+                                "NumPy"
+                            ],
+                            "expectedCompletion": "2025-09-04"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00015",
+        "name": "Amy Brady",
+        "position": "Risk analyst",
+        "department": {
+            "id": "D039",
+            "name": "Repurpose",
+            "manager": {
+                "id": "M7906",
+                "name": "Monica Faulkner",
+                "contact": {
+                    "email": "matthewflynn@example.com",
+                    "phone": "930-280-3300"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P1237",
+                "projectName": "Digitized non-volatile Graphic Interface",
+                "startDate": "2024-11-24",
+                "tasks": [
+                    {
+                        "taskId": "T902",
+                        "title": "Harness Ubiquitous Web-Readiness",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 80,
+                            "technologiesUsed": [
+                                "SQL",
+                                "TensorFlow",
+                                "Scikit-learn"
+                            ],
+                            "expectedCompletion": "2025-08-27"
+                        }
+                    },
+                    {
+                        "taskId": "T684",
+                        "title": "Whiteboard Cutting-Edge Architectures",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 25,
+                            "technologiesUsed": [
+                                "SQL",
+                                "Kubernetes"
+                            ],
+                            "expectedCompletion": "2025-08-29"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00016",
+        "name": "Jamie Cobb",
+        "position": "Facilities manager",
+        "department": {
+            "id": "D080",
+            "name": "Reinvent",
+            "manager": {
+                "id": "M3141",
+                "name": "Anthony Rivera",
+                "contact": {
+                    "email": "carrie48@example.org",
+                    "phone": "246-875-4927x4102"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P5180",
+                "projectName": "Self-enabling value-added hub",
+                "startDate": "2024-12-23",
+                "tasks": [
+                    {
+                        "taskId": "T475",
+                        "title": "Reinvent Real-Time Web Services",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 13,
+                            "technologiesUsed": [
+                                "JavaScript",
+                                "Java",
+                                "Pandas",
+                                "Python"
+                            ],
+                            "expectedCompletion": "2025-09-02"
+                        }
+                    },
+                    {
+                        "taskId": "T603",
+                        "title": "Incentivize Wireless E-Markets",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 60,
+                            "technologiesUsed": [
+                                "SQL",
+                                "JavaScript",
+                                "Scikit-learn",
+                                "Python"
+                            ],
+                            "completionDate": "2025-01-24"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00017",
+        "name": "Mark Diaz",
+        "position": "Control and instrumentation engineer",
+        "department": {
+            "id": "D035",
+            "name": "Syndicate",
+            "manager": {
+                "id": "M4353",
+                "name": "Nicole Harmon",
+                "contact": {
+                    "email": "gdorsey@example.com",
+                    "phone": "309.660.5910x91958"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P4196",
+                "projectName": "Robust 3rdgeneration secured line",
+                "startDate": "2025-01-25",
+                "tasks": [
+                    {
+                        "taskId": "T322",
+                        "title": "Productize Rich Relationships",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 38,
+                            "technologiesUsed": [
+                                "NumPy",
+                                "Scikit-learn"
+                            ]
+                        }
+                    },
+                    {
+                        "taskId": "T573",
+                        "title": "Harness Rich Users",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 49,
+                            "technologiesUsed": [
+                                "Scikit-learn",
+                                "Java",
+                                "Kubernetes",
+                                "Pandas"
+                            ],
+                            "expectedCompletion": "2025-09-04"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00018",
+        "name": "Lindsay Wright",
+        "position": "Ceramics designer",
+        "department": {
+            "id": "D070",
+            "name": "Incubate",
+            "manager": {
+                "id": "M7207",
+                "name": "Tonya Chapman",
+                "contact": {
+                    "email": "eruiz@example.org",
+                    "phone": "001-512-523-5980x6365"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P4281",
+                "projectName": "Universal incremental moratorium",
+                "startDate": "2025-07-12",
+                "tasks": [
+                    {
+                        "taskId": "T952",
+                        "title": "Grow Mission-Critical E-Business",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 69,
+                            "technologiesUsed": [
+                                "TensorFlow",
+                                "Kubernetes",
+                                "Pandas",
+                                "Scikit-learn"
+                            ]
+                        }
+                    },
+                    {
+                        "taskId": "T838",
+                        "title": "Enable Vertical E-Markets",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 32,
+                            "technologiesUsed": [
+                                "Scikit-learn",
+                                "Java",
+                                "Python"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00019",
+        "name": "Mark Roberts",
+        "position": "Immigration officer",
+        "department": {
+            "id": "D040",
+            "name": "Integrate",
+            "manager": {
+                "id": "M3768",
+                "name": "Michael Alvarez",
+                "contact": {
+                    "email": "amy90@example.net",
+                    "phone": "204.298.3515x23451"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P2490",
+                "projectName": "Face-to-face needs-based circuit",
+                "startDate": "2024-11-05",
+                "tasks": [
+                    {
+                        "taskId": "T629",
+                        "title": "Synergize Enterprise Web Services",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 32,
+                            "technologiesUsed": [
+                                "Python",
+                                "Kubernetes",
+                                "TensorFlow",
+                                "NumPy"
+                            ],
+                            "completionDate": "2024-12-31"
+                        }
+                    },
+                    {
+                        "taskId": "T522",
+                        "title": "Cultivate Ubiquitous Web-Readiness",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 71,
+                            "technologiesUsed": [
+                                "SQL",
+                                "Pandas",
+                                "Python"
+                            ],
+                            "expectedCompletion": "2025-09-09"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00020",
+        "name": "Richard Ryan",
+        "position": "Restaurant manager",
+        "department": {
+            "id": "D058",
+            "name": "Drive",
+            "manager": {
+                "id": "M2984",
+                "name": "Bradley Charles",
+                "contact": {
+                    "email": "usimpson@example.org",
+                    "phone": "337.462.0631"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P9177",
+                "projectName": "Optimized zero administration software",
+                "startDate": "2024-12-19",
+                "tasks": [
+                    {
+                        "taskId": "T430",
+                        "title": "Re-Contextualize Revolutionary Technologies",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 54,
+                            "technologiesUsed": [
+                                "PyTorch",
+                                "TensorFlow",
+                                "JavaScript"
+                            ],
+                            "expectedCompletion": "2025-08-17"
+                        }
+                    },
+                    {
+                        "taskId": "T219",
+                        "title": "Incubate Global Communities",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 67,
+                            "technologiesUsed": [
+                                "NumPy",
+                                "Kubernetes",
+                                "PyTorch"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00021",
+        "name": "Christopher Miller",
+        "position": "Control and instrumentation engineer",
+        "department": {
+            "id": "D095",
+            "name": "Incubate",
+            "manager": {
+                "id": "M2252",
+                "name": "Austin Price",
+                "contact": {
+                    "email": "kennethdominguez@example.net",
+                    "phone": "562.498.2488x2146"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P8768",
+                "projectName": "Ameliorated coherent budgetary management",
+                "startDate": "2025-05-05",
+                "tasks": [
+                    {
+                        "taskId": "T197",
+                        "title": "Syndicate Collaborative E-Services",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 78,
+                            "technologiesUsed": [
+                                "SQL",
+                                "JavaScript",
+                                "Python",
+                                "NumPy"
+                            ]
+                        }
+                    },
+                    {
+                        "taskId": "T165",
+                        "title": "Revolutionize Visionary Mindshare",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 34,
+                            "technologiesUsed": [
+                                "Kubernetes",
+                                "PyTorch",
+                                "JavaScript"
+                            ],
+                            "expectedCompletion": "2025-09-04"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00022",
+        "name": "Angela Bryan",
+        "position": "Accountant, chartered",
+        "department": {
+            "id": "D042",
+            "name": "Enable",
+            "manager": {
+                "id": "M7459",
+                "name": "Bryan Clark",
+                "contact": {
+                    "email": "shaunbrooks@example.com",
+                    "phone": "(326)462-9466"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P9284",
+                "projectName": "Organized user-facing project",
+                "startDate": "2024-09-08",
+                "tasks": [
+                    {
+                        "taskId": "T915",
+                        "title": "Reinvent Clicks-And-Mortar Supply-Chains",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 39,
+                            "technologiesUsed": [
+                                "Java",
+                                "SQL",
+                                "Python",
+                                "PyTorch"
+                            ],
+                            "expectedCompletion": "2025-08-24"
+                        }
+                    },
+                    {
+                        "taskId": "T290",
+                        "title": "Expedite Best-Of-Breed Initiatives",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 53,
+                            "technologiesUsed": [
+                                "Pandas",
+                                "JavaScript",
+                                "PyTorch",
+                                "SQL"
+                            ],
+                            "completionDate": "2024-11-15"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00023",
+        "name": "Mary Montgomery",
+        "position": "Health and safety inspector",
+        "department": {
+            "id": "D042",
+            "name": "Exploit",
+            "manager": {
+                "id": "M8259",
+                "name": "Meghan Moody",
+                "contact": {
+                    "email": "larrymason@example.com",
+                    "phone": "001-344-891-8382x40691"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P2688",
+                "projectName": "Reduced scalable structure",
+                "startDate": "2024-10-26",
+                "tasks": [
+                    {
+                        "taskId": "T552",
+                        "title": "Synergize Proactive Deliverables",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 33,
+                            "technologiesUsed": [
+                                "Pandas",
+                                "JavaScript",
+                                "Java",
+                                "TensorFlow"
+                            ]
+                        }
+                    },
+                    {
+                        "taskId": "T875",
+                        "title": "Leverage Granular Mindshare",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 53,
+                            "technologiesUsed": [
+                                "SQL",
+                                "Python",
+                                "PyTorch",
+                                "Pandas"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00024",
+        "name": "Catherine Castro",
+        "position": "Seismic interpreter",
+        "department": {
+            "id": "D070",
+            "name": "Syndicate",
+            "manager": {
+                "id": "M6743",
+                "name": "Martha Ortiz",
+                "contact": {
+                    "email": "wilkinsonlinda@example.org",
+                    "phone": "001-541-322-1550x208"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P7429",
+                "projectName": "Multi-tiered 3rdgeneration open architecture",
+                "startDate": "2025-08-11",
+                "tasks": [
+                    {
+                        "taskId": "T385",
+                        "title": "Incubate Turn-Key Content",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 74,
+                            "technologiesUsed": [
+                                "NumPy",
+                                "TensorFlow"
+                            ],
+                            "expectedCompletion": "2025-08-30"
+                        }
+                    },
+                    {
+                        "taskId": "T200",
+                        "title": "Enhance Out-Of-The-Box Architectures",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 51,
+                            "technologiesUsed": [
+                                "Scikit-learn",
+                                "Java",
+                                "JavaScript"
+                            ],
+                            "expectedCompletion": "2025-09-08"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00025",
+        "name": "Mitchell Morgan",
+        "position": "Doctor, hospital",
+        "department": {
+            "id": "D010",
+            "name": "Unleash",
+            "manager": {
+                "id": "M8375",
+                "name": "Louis Deleon",
+                "contact": {
+                    "email": "emily65@example.org",
+                    "phone": "802-505-5763"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P8511",
+                "projectName": "Synergized web-enabled moderator",
+                "startDate": "2024-12-28",
+                "tasks": [
+                    {
+                        "taskId": "T975",
+                        "title": "Architect Cutting-Edge Experiences",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 29,
+                            "technologiesUsed": [
+                                "SQL",
+                                "Pandas"
+                            ]
+                        }
+                    },
+                    {
+                        "taskId": "T426",
+                        "title": "Exploit Magnetic E-Markets",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 28,
+                            "technologiesUsed": [
+                                "TensorFlow",
+                                "Python"
+                            ],
+                            "expectedCompletion": "2025-09-01"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00026",
+        "name": "Catherine Davis",
+        "position": "Tax adviser",
+        "department": {
+            "id": "D006",
+            "name": "Whiteboard",
+            "manager": {
+                "id": "M3773",
+                "name": "James Reese",
+                "contact": {
+                    "email": "kristinmoody@example.net",
+                    "phone": "001-224-843-4301"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P1914",
+                "projectName": "Innovative maximized architecture",
+                "startDate": "2025-02-06",
+                "tasks": [
+                    {
+                        "taskId": "T862",
+                        "title": "Incentivize Global Experiences",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 36,
+                            "technologiesUsed": [
+                                "PyTorch",
+                                "Python",
+                                "Kubernetes"
+                            ],
+                            "expectedCompletion": "2025-08-23"
+                        }
+                    },
+                    {
+                        "taskId": "T533",
+                        "title": "Repurpose Ubiquitous E-Services",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 29,
+                            "technologiesUsed": [
+                                "JavaScript",
+                                "NumPy",
+                                "PyTorch"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00027",
+        "name": "Terri Wolf",
+        "position": "Architect",
+        "department": {
+            "id": "D046",
+            "name": "Scale",
+            "manager": {
+                "id": "M7155",
+                "name": "Caleb Lee",
+                "contact": {
+                    "email": "wardmelanie@example.com",
+                    "phone": "321-701-9727"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P7292",
+                "projectName": "Compatible user-facing throughput",
+                "startDate": "2024-08-12",
+                "tasks": [
+                    {
+                        "taskId": "T828",
+                        "title": "Target Visionary Channels",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 33,
+                            "technologiesUsed": [
+                                "Scikit-learn",
+                                "Python",
+                                "Kubernetes",
+                                "Pandas"
+                            ]
+                        }
+                    },
+                    {
+                        "taskId": "T591",
+                        "title": "Exploit Cross-Media E-Business",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 33,
+                            "technologiesUsed": [
+                                "NumPy",
+                                "SQL"
+                            ],
+                            "expectedCompletion": "2025-08-19"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00028",
+        "name": "Stacy Paul",
+        "position": "Engineer, manufacturing",
+        "department": {
+            "id": "D055",
+            "name": "Empower",
+            "manager": {
+                "id": "M4797",
+                "name": "William Andrews",
+                "contact": {
+                    "email": "dpage@example.com",
+                    "phone": "+1-972-786-6487x1164"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P9023",
+                "projectName": "Profound well-modulated standardization",
+                "startDate": "2025-07-28",
+                "tasks": [
+                    {
+                        "taskId": "T890",
+                        "title": "Reinvent Synergistic E-Business",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 32,
+                            "technologiesUsed": [
+                                "Scikit-learn",
+                                "Python"
+                            ],
+                            "completionDate": "2025-09-04"
+                        }
+                    },
+                    {
+                        "taskId": "T540",
+                        "title": "Leverage Global E-Markets",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 29,
+                            "technologiesUsed": [
+                                "Kubernetes",
+                                "NumPy"
+                            ],
+                            "expectedCompletion": "2025-09-02"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00029",
+        "name": "Colleen Green",
+        "position": "Surgeon",
+        "department": {
+            "id": "D062",
+            "name": "Expedite",
+            "manager": {
+                "id": "M3032",
+                "name": "Catherine Williams",
+                "contact": {
+                    "email": "martinjoseph@example.com",
+                    "phone": "(795)691-9141x51493"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P6478",
+                "projectName": "Balanced holistic framework",
+                "startDate": "2025-07-24",
+                "tasks": [
+                    {
+                        "taskId": "T402",
+                        "title": "Whiteboard Distributed Web-Readiness",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 12,
+                            "technologiesUsed": [
+                                "Scikit-learn",
+                                "NumPy"
+                            ],
+                            "expectedCompletion": "2025-08-18"
+                        }
+                    },
+                    {
+                        "taskId": "T997",
+                        "title": "Revolutionize Collaborative Communities",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 42,
+                            "technologiesUsed": [
+                                "NumPy",
+                                "Scikit-learn",
+                                "PyTorch",
+                                "Pandas"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00030",
+        "name": "James Bennett",
+        "position": "Systems developer",
+        "department": {
+            "id": "D013",
+            "name": "Strategize",
+            "manager": {
+                "id": "M8214",
+                "name": "Carlos Chambers",
+                "contact": {
+                    "email": "emilyestrada@example.net",
+                    "phone": "(811)456-8344"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P1656",
+                "projectName": "Optimized methodical ability",
+                "startDate": "2025-06-07",
+                "tasks": [
+                    {
+                        "taskId": "T355",
+                        "title": "Revolutionize Vertical Models",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 37,
+                            "technologiesUsed": [
+                                "PyTorch",
+                                "SQL",
+                                "Kubernetes"
+                            ]
+                        }
+                    },
+                    {
+                        "taskId": "T985",
+                        "title": "Implement Robust Applications",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 61,
+                            "technologiesUsed": [
+                                "Scikit-learn",
+                                "Kubernetes",
+                                "JavaScript"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00031",
+        "name": "William Jones",
+        "position": "Dealer",
+        "department": {
+            "id": "D076",
+            "name": "Monetize",
+            "manager": {
+                "id": "M1132",
+                "name": "Benjamin Tran",
+                "contact": {
+                    "email": "johnhall@example.com",
+                    "phone": "+1-385-562-4456x530"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P4480",
+                "projectName": "Public-key directional initiative",
+                "startDate": "2025-02-22",
+                "tasks": [
+                    {
+                        "taskId": "T216",
+                        "title": "Enhance Impactful Networks",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 58,
+                            "technologiesUsed": [
+                                "Python",
+                                "JavaScript"
+                            ]
+                        }
+                    },
+                    {
+                        "taskId": "T928",
+                        "title": "Aggregate Virtual Networks",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 25,
+                            "technologiesUsed": [
+                                "Java",
+                                "JavaScript",
+                                "PyTorch",
+                                "TensorFlow"
+                            ],
+                            "expectedCompletion": "2025-08-17"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00032",
+        "name": "Corey Chavez",
+        "position": "Scientist, research (medical)",
+        "department": {
+            "id": "D047",
+            "name": "Embrace",
+            "manager": {
+                "id": "M5052",
+                "name": "Kelly Evans",
+                "contact": {
+                    "email": "kbaldwin@example.com",
+                    "phone": "(823)836-1820"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P3672",
+                "projectName": "Visionary explicit application",
+                "startDate": "2025-06-22",
+                "tasks": [
+                    {
+                        "taskId": "T431",
+                        "title": "Embrace Virtual Platforms",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 51,
+                            "technologiesUsed": [
+                                "JavaScript",
+                                "Python",
+                                "NumPy",
+                                "Java"
+                            ],
+                            "completionDate": "2025-08-18"
+                        }
+                    },
+                    {
+                        "taskId": "T862",
+                        "title": "Scale Granular Architectures",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 38,
+                            "technologiesUsed": [
+                                "PyTorch",
+                                "NumPy"
+                            ],
+                            "completionDate": "2025-09-04"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00033",
+        "name": "Aaron Williams",
+        "position": "Optician, dispensing",
+        "department": {
+            "id": "D075",
+            "name": "Integrate",
+            "manager": {
+                "id": "M6840",
+                "name": "Scott Kelly",
+                "contact": {
+                    "email": "jeffreyjohns@example.com",
+                    "phone": "001-212-842-1696x10786"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P2071",
+                "projectName": "Adaptive neutral knowledge user",
+                "startDate": "2025-05-15",
+                "tasks": [
+                    {
+                        "taskId": "T642",
+                        "title": "Facilitate User-Centric Web Services",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 55,
+                            "technologiesUsed": [
+                                "PyTorch",
+                                "Kubernetes",
+                                "Java"
+                            ]
+                        }
+                    },
+                    {
+                        "taskId": "T443",
+                        "title": "Leverage Frictionless Markets",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 20,
+                            "technologiesUsed": [
+                                "Java",
+                                "Python"
+                            ],
+                            "expectedCompletion": "2025-08-21"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00034",
+        "name": "Beth Coleman",
+        "position": "Midwife",
+        "department": {
+            "id": "D072",
+            "name": "Repurpose",
+            "manager": {
+                "id": "M3785",
+                "name": "Christina Mills",
+                "contact": {
+                    "email": "zsmith@example.com",
+                    "phone": "001-397-487-5521x380"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P9720",
+                "projectName": "Intuitive upward-trending pricing structure",
+                "startDate": "2025-01-15",
+                "tasks": [
+                    {
+                        "taskId": "T227",
+                        "title": "Unleash Bleeding-Edge Web-Readiness",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 61,
+                            "technologiesUsed": [
+                                "Java",
+                                "NumPy"
+                            ]
+                        }
+                    },
+                    {
+                        "taskId": "T670",
+                        "title": "Utilize Dot-Com E-Business",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 67,
+                            "technologiesUsed": [
+                                "NumPy",
+                                "TensorFlow"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00035",
+        "name": "Michael Cervantes",
+        "position": "Chiropodist",
+        "department": {
+            "id": "D033",
+            "name": "Synergize",
+            "manager": {
+                "id": "M6468",
+                "name": "Cynthia Sanchez",
+                "contact": {
+                    "email": "dwalker@example.org",
+                    "phone": "001-216-301-0585x677"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P2688",
+                "projectName": "Multi-layered non-volatile database",
+                "startDate": "2024-11-27",
+                "tasks": [
+                    {
+                        "taskId": "T940",
+                        "title": "Extend Intuitive Mindshare",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 25,
+                            "technologiesUsed": [
+                                "Scikit-learn",
+                                "NumPy",
+                                "TensorFlow",
+                                "Pandas"
+                            ],
+                            "expectedCompletion": "2025-08-29"
+                        }
+                    },
+                    {
+                        "taskId": "T705",
+                        "title": "Innovate Back-End E-Tailers",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 34,
+                            "technologiesUsed": [
+                                "TensorFlow",
+                                "NumPy",
+                                "Python",
+                                "Scikit-learn"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00036",
+        "name": "Erica Cervantes",
+        "position": "Therapist, nutritional",
+        "department": {
+            "id": "D052",
+            "name": "Expedite",
+            "manager": {
+                "id": "M9874",
+                "name": "Jason Holland",
+                "contact": {
+                    "email": "katherine90@example.org",
+                    "phone": "214.855.2595x6810"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P9956",
+                "projectName": "Cloned asynchronous orchestration",
+                "startDate": "2024-09-15",
+                "tasks": [
+                    {
+                        "taskId": "T102",
+                        "title": "Exploit Web-Enabled Architectures",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 60,
+                            "technologiesUsed": [
+                                "Python",
+                                "PyTorch"
+                            ],
+                            "completionDate": "2024-11-09"
+                        }
+                    },
+                    {
+                        "taskId": "T646",
+                        "title": "Architect User-Centric Supply-Chains",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 14,
+                            "technologiesUsed": [
+                                "Java",
+                                "SQL"
+                            ],
+                            "expectedCompletion": "2025-09-07"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00037",
+        "name": "Nicole Gonzalez",
+        "position": "Surveyor, commercial/residential",
+        "department": {
+            "id": "D061",
+            "name": "Brand",
+            "manager": {
+                "id": "M7681",
+                "name": "Kelli Hendrix",
+                "contact": {
+                    "email": "moorebrian@example.com",
+                    "phone": "+1-665-542-6809x3111"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P2543",
+                "projectName": "Seamless systematic Internet solution",
+                "startDate": "2025-07-18",
+                "tasks": [
+                    {
+                        "taskId": "T351",
+                        "title": "Whiteboard Wireless Portals",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 66,
+                            "technologiesUsed": [
+                                "Python",
+                                "NumPy",
+                                "SQL",
+                                "PyTorch"
+                            ],
+                            "expectedCompletion": "2025-08-19"
+                        }
+                    },
+                    {
+                        "taskId": "T708",
+                        "title": "Synergize Wireless Paradigms",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 27,
+                            "technologiesUsed": [
+                                "PyTorch",
+                                "TensorFlow",
+                                "SQL",
+                                "JavaScript"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00038",
+        "name": "Heather Brooks",
+        "position": "Physiological scientist",
+        "department": {
+            "id": "D054",
+            "name": "Reinvent",
+            "manager": {
+                "id": "M5424",
+                "name": "Todd Williams",
+                "contact": {
+                    "email": "martinscott@example.net",
+                    "phone": "(366)999-4101x651"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P8793",
+                "projectName": "Operative zero administration task-force",
+                "startDate": "2025-05-02",
+                "tasks": [
+                    {
+                        "taskId": "T550",
+                        "title": "Disintermediate Front-End E-Services",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 46,
+                            "technologiesUsed": [
+                                "Pandas",
+                                "Kubernetes",
+                                "JavaScript",
+                                "NumPy"
+                            ]
+                        }
+                    },
+                    {
+                        "taskId": "T785",
+                        "title": "Syndicate Turn-Key Roi",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 41,
+                            "technologiesUsed": [
+                                "JavaScript",
+                                "Kubernetes",
+                                "Scikit-learn"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00039",
+        "name": "Francisco Solomon",
+        "position": "Garment/textile technologist",
+        "department": {
+            "id": "D051",
+            "name": "Grow",
+            "manager": {
+                "id": "M4073",
+                "name": "Robert Clark",
+                "contact": {
+                    "email": "lynchmarc@example.org",
+                    "phone": "(793)584-4145x4918"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P9096",
+                "projectName": "Reactive bi-directional complexity",
+                "startDate": "2025-02-19",
+                "tasks": [
+                    {
+                        "taskId": "T437",
+                        "title": "Implement 24/365 E-Markets",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 77,
+                            "technologiesUsed": [
+                                "TensorFlow",
+                                "Pandas",
+                                "Scikit-learn",
+                                "SQL"
+                            ]
+                        }
+                    },
+                    {
+                        "taskId": "T953",
+                        "title": "Incubate Real-Time E-Markets",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 57,
+                            "technologiesUsed": [
+                                "Scikit-learn",
+                                "JavaScript",
+                                "Python"
+                            ],
+                            "expectedCompletion": "2025-09-10"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00040",
+        "name": "Pam Tyler",
+        "position": "Optician, dispensing",
+        "department": {
+            "id": "D073",
+            "name": "Target",
+            "manager": {
+                "id": "M4559",
+                "name": "Ashley Huang",
+                "contact": {
+                    "email": "pwatkins@example.com",
+                    "phone": "001-797-365-9415"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P6255",
+                "projectName": "Balanced foreground synergy",
+                "startDate": "2024-10-06",
+                "tasks": [
+                    {
+                        "taskId": "T328",
+                        "title": "Whiteboard Killer Deliverables",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 35,
+                            "technologiesUsed": [
+                                "SQL",
+                                "Pandas"
+                            ],
+                            "completionDate": "2024-11-11"
+                        }
+                    },
+                    {
+                        "taskId": "T311",
+                        "title": "Re-Intermediate Synergistic Channels",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 48,
+                            "technologiesUsed": [
+                                "JavaScript",
+                                "PyTorch",
+                                "Pandas",
+                                "Scikit-learn"
+                            ],
+                            "completionDate": "2024-12-26"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00041",
+        "name": "Henry Flores",
+        "position": "Best boy",
+        "department": {
+            "id": "D024",
+            "name": "Incentivize",
+            "manager": {
+                "id": "M8459",
+                "name": "Erica Nichols",
+                "contact": {
+                    "email": "samanthaweaver@example.com",
+                    "phone": "(295)672-1832x7332"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P1730",
+                "projectName": "Organized global knowledge user",
+                "startDate": "2025-01-04",
+                "tasks": [
+                    {
+                        "taskId": "T917",
+                        "title": "Optimize End-To-End Paradigms",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 33,
+                            "technologiesUsed": [
+                                "NumPy",
+                                "SQL",
+                                "Python"
+                            ]
+                        }
+                    },
+                    {
+                        "taskId": "T275",
+                        "title": "Repurpose Killer Convergence",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 39,
+                            "technologiesUsed": [
+                                "Java",
+                                "TensorFlow",
+                                "JavaScript",
+                                "PyTorch"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00042",
+        "name": "Pam Mathis",
+        "position": "Brewing technologist",
+        "department": {
+            "id": "D021",
+            "name": "Empower",
+            "manager": {
+                "id": "M6429",
+                "name": "Kyle Roman",
+                "contact": {
+                    "email": "zortiz@example.org",
+                    "phone": "313-952-7272"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P7202",
+                "projectName": "Virtual fault-tolerant access",
+                "startDate": "2025-01-24",
+                "tasks": [
+                    {
+                        "taskId": "T358",
+                        "title": "Engage Real-Time Portals",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 46,
+                            "technologiesUsed": [
+                                "Python",
+                                "Pandas",
+                                "PyTorch",
+                                "Java"
+                            ],
+                            "expectedCompletion": "2025-08-18"
+                        }
+                    },
+                    {
+                        "taskId": "T531",
+                        "title": "Aggregate Integrated Info-Mediaries",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 77,
+                            "technologiesUsed": [
+                                "TensorFlow",
+                                "PyTorch",
+                                "Scikit-learn",
+                                "Kubernetes"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00043",
+        "name": "Amanda White",
+        "position": "Civil engineer, contracting",
+        "department": {
+            "id": "D055",
+            "name": "Deploy",
+            "manager": {
+                "id": "M1408",
+                "name": "Martin Gonzalez",
+                "contact": {
+                    "email": "jalexander@example.net",
+                    "phone": "(620)831-7018"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P4778",
+                "projectName": "Adaptive regional interface",
+                "startDate": "2025-01-06",
+                "tasks": [
+                    {
+                        "taskId": "T460",
+                        "title": "Incentivize Front-End E-Tailers",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 65,
+                            "technologiesUsed": [
+                                "Scikit-learn",
+                                "NumPy",
+                                "SQL"
+                            ],
+                            "completionDate": "2025-01-26"
+                        }
+                    },
+                    {
+                        "taskId": "T519",
+                        "title": "Exploit Out-Of-The-Box Metrics",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 56,
+                            "technologiesUsed": [
+                                "Scikit-learn",
+                                "PyTorch",
+                                "Java",
+                                "Kubernetes"
+                            ],
+                            "expectedCompletion": "2025-08-19"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00044",
+        "name": "Amy Heath",
+        "position": "Research officer, political party",
+        "department": {
+            "id": "D090",
+            "name": "Re-contextualize",
+            "manager": {
+                "id": "M6236",
+                "name": "Jennifer Black",
+                "contact": {
+                    "email": "twhite@example.net",
+                    "phone": "663.753.5002x0491"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P4249",
+                "projectName": "Upgradable uniform circuit",
+                "startDate": "2025-02-20",
+                "tasks": [
+                    {
+                        "taskId": "T343",
+                        "title": "Transform Real-Time Partnerships",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 36,
+                            "technologiesUsed": [
+                                "Java",
+                                "PyTorch",
+                                "Kubernetes"
+                            ],
+                            "expectedCompletion": "2025-09-08"
+                        }
+                    },
+                    {
+                        "taskId": "T554",
+                        "title": "Deliver B2B Functionalities",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 26,
+                            "technologiesUsed": [
+                                "TensorFlow",
+                                "JavaScript",
+                                "PyTorch"
+                            ],
+                            "completionDate": "2025-05-13"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00045",
+        "name": "Allison Holland",
+        "position": "Conservation officer, historic buildings",
+        "department": {
+            "id": "D008",
+            "name": "Envisioneer",
+            "manager": {
+                "id": "M8226",
+                "name": "April Nelson",
+                "contact": {
+                    "email": "xbrown@example.com",
+                    "phone": "(954)683-1123x6859"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P8245",
+                "projectName": "Stand-alone background Local Area Network",
+                "startDate": "2025-02-10",
+                "tasks": [
+                    {
+                        "taskId": "T189",
+                        "title": "Monetize Strategic Niches",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 16,
+                            "technologiesUsed": [
+                                "PyTorch",
+                                "Python",
+                                "Kubernetes"
+                            ],
+                            "expectedCompletion": "2025-08-31"
+                        }
+                    },
+                    {
+                        "taskId": "T101",
+                        "title": "Evolve Proactive Users",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 22,
+                            "technologiesUsed": [
+                                "Pandas",
+                                "JavaScript",
+                                "Java",
+                                "Scikit-learn"
+                            ],
+                            "expectedCompletion": "2025-08-25"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00046",
+        "name": "Julie Kelly",
+        "position": "Chief Operating Officer",
+        "department": {
+            "id": "D076",
+            "name": "Deploy",
+            "manager": {
+                "id": "M2835",
+                "name": "Matthew Howard",
+                "contact": {
+                    "email": "tfisher@example.com",
+                    "phone": "001-810-422-0084x5006"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P2137",
+                "projectName": "Self-enabling systematic infrastructure",
+                "startDate": "2024-09-12",
+                "tasks": [
+                    {
+                        "taskId": "T586",
+                        "title": "Morph One-To-One Users",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 21,
+                            "technologiesUsed": [
+                                "JavaScript",
+                                "NumPy"
+                            ],
+                            "completionDate": "2024-09-28"
+                        }
+                    },
+                    {
+                        "taskId": "T492",
+                        "title": "Evolve Turn-Key Infrastructures",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 23,
+                            "technologiesUsed": [
+                                "Kubernetes",
+                                "NumPy",
+                                "Pandas",
+                                "PyTorch"
+                            ],
+                            "expectedCompletion": "2025-08-20"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00047",
+        "name": "Alexandra Bird",
+        "position": "Equality and diversity officer",
+        "department": {
+            "id": "D019",
+            "name": "Architect",
+            "manager": {
+                "id": "M3967",
+                "name": "Michael Moore",
+                "contact": {
+                    "email": "sharon94@example.com",
+                    "phone": "233-585-0157"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P2661",
+                "projectName": "Switchable secondary help-desk",
+                "startDate": "2024-09-01",
+                "tasks": [
+                    {
+                        "taskId": "T543",
+                        "title": "Productize Extensible Content",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 30,
+                            "technologiesUsed": [
+                                "Pandas",
+                                "PyTorch",
+                                "NumPy",
+                                "Java"
+                            ],
+                            "expectedCompletion": "2025-08-29"
+                        }
+                    },
+                    {
+                        "taskId": "T453",
+                        "title": "Syndicate Open-Source Initiatives",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 32,
+                            "technologiesUsed": [
+                                "Java",
+                                "Scikit-learn",
+                                "Kubernetes",
+                                "SQL"
+                            ],
+                            "completionDate": "2024-10-30"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00048",
+        "name": "Molly Long DDS",
+        "position": "Waste management officer",
+        "department": {
+            "id": "D040",
+            "name": "Synergize",
+            "manager": {
+                "id": "M7918",
+                "name": "Edwin Tapia",
+                "contact": {
+                    "email": "thomasevans@example.net",
+                    "phone": "641.565.5665x13272"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P9883",
+                "projectName": "Pre-emptive systematic policy",
+                "startDate": "2024-12-02",
+                "tasks": [
+                    {
+                        "taskId": "T185",
+                        "title": "Re-Intermediate Innovative Schemas",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 37,
+                            "technologiesUsed": [
+                                "PyTorch",
+                                "NumPy"
+                            ]
+                        }
+                    },
+                    {
+                        "taskId": "T789",
+                        "title": "Whiteboard Proactive E-Commerce",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 16,
+                            "technologiesUsed": [
+                                "Python",
+                                "Kubernetes",
+                                "NumPy",
+                                "SQL"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00049",
+        "name": "Steven Mitchell",
+        "position": "Diagnostic radiographer",
+        "department": {
+            "id": "D032",
+            "name": "Architect",
+            "manager": {
+                "id": "M4307",
+                "name": "Gregory Benitez",
+                "contact": {
+                    "email": "davidsosa@example.org",
+                    "phone": "(288)309-3701"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P3132",
+                "projectName": "Customizable user-facing database",
+                "startDate": "2025-02-09",
+                "tasks": [
+                    {
+                        "taskId": "T143",
+                        "title": "Scale Clicks-And-Mortar Convergence",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 45,
+                            "technologiesUsed": [
+                                "SQL",
+                                "PyTorch",
+                                "Pandas"
+                            ],
+                            "completionDate": "2025-04-19"
+                        }
+                    },
+                    {
+                        "taskId": "T154",
+                        "title": "Maximize B2C E-Business",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 30,
+                            "technologiesUsed": [
+                                "PyTorch",
+                                "NumPy",
+                                "Pandas"
+                            ],
+                            "expectedCompletion": "2025-08-19"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00050",
+        "name": "Stacey Brown",
+        "position": "Scientist, product/process development",
+        "department": {
+            "id": "D050",
+            "name": "Deploy",
+            "manager": {
+                "id": "M9491",
+                "name": "Jose Byrd",
+                "contact": {
+                    "email": "quinnmichael@example.org",
+                    "phone": "001-964-358-1544x03319"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P4965",
+                "projectName": "Advanced secondary hub",
+                "startDate": "2025-05-07",
+                "tasks": [
+                    {
+                        "taskId": "T963",
+                        "title": "Embrace Holistic Roi",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 52,
+                            "technologiesUsed": [
+                                "TensorFlow",
+                                "NumPy",
+                                "Python"
+                            ],
+                            "completionDate": "2025-08-04"
+                        }
+                    },
+                    {
+                        "taskId": "T321",
+                        "title": "Deliver Collaborative Schemas",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 80,
+                            "technologiesUsed": [
+                                "NumPy",
+                                "Python",
+                                "JavaScript",
+                                "SQL"
+                            ],
+                            "completionDate": "2025-06-27"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00051",
+        "name": "Joseph Sullivan",
+        "position": "Engineer, biomedical",
+        "department": {
+            "id": "D025",
+            "name": "Revolutionize",
+            "manager": {
+                "id": "M8920",
+                "name": "Julie Miller",
+                "contact": {
+                    "email": "timothymathews@example.com",
+                    "phone": "(212)686-6497x17392"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P4318",
+                "projectName": "Enhanced foreground utilization",
+                "startDate": "2025-02-18",
+                "tasks": [
+                    {
+                        "taskId": "T675",
+                        "title": "Mesh Dynamic E-Markets",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 68,
+                            "technologiesUsed": [
+                                "Kubernetes",
+                                "PyTorch",
+                                "Pandas",
+                                "NumPy"
+                            ]
+                        }
+                    },
+                    {
+                        "taskId": "T923",
+                        "title": "Optimize Web-Enabled Solutions",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 38,
+                            "technologiesUsed": [
+                                "Kubernetes",
+                                "Python",
+                                "TensorFlow",
+                                "NumPy"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00052",
+        "name": "Terry Castro DDS",
+        "position": "Clinical cytogeneticist",
+        "department": {
+            "id": "D062",
+            "name": "Synergize",
+            "manager": {
+                "id": "M7063",
+                "name": "Theresa Howell",
+                "contact": {
+                    "email": "dianecherry@example.net",
+                    "phone": "8509038362"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P8829",
+                "projectName": "Multi-layered fresh-thinking access",
+                "startDate": "2024-12-26",
+                "tasks": [
+                    {
+                        "taskId": "T797",
+                        "title": "Deploy Granular Synergies",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 21,
+                            "technologiesUsed": [
+                                "Kubernetes",
+                                "NumPy",
+                                "PyTorch"
+                            ]
+                        }
+                    },
+                    {
+                        "taskId": "T376",
+                        "title": "Matrix Distributed Platforms",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 61,
+                            "technologiesUsed": [
+                                "Kubernetes",
+                                "SQL",
+                                "Pandas"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00053",
+        "name": "Matthew Conner",
+        "position": "Economist",
+        "department": {
+            "id": "D026",
+            "name": "Synthesize",
+            "manager": {
+                "id": "M3744",
+                "name": "Joan Owen",
+                "contact": {
+                    "email": "ashleyjones@example.net",
+                    "phone": "+1-447-240-6985x09087"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P8733",
+                "projectName": "Fully-configurable multi-state benchmark",
+                "startDate": "2025-05-17",
+                "tasks": [
+                    {
+                        "taskId": "T906",
+                        "title": "Empower Mission-Critical Applications",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 39,
+                            "technologiesUsed": [
+                                "TensorFlow",
+                                "Java",
+                                "SQL",
+                                "Kubernetes"
+                            ]
+                        }
+                    },
+                    {
+                        "taskId": "T721",
+                        "title": "Optimize Compelling E-Services",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 26,
+                            "technologiesUsed": [
+                                "Java",
+                                "Scikit-learn"
+                            ],
+                            "completionDate": "2025-08-02"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00054",
+        "name": "Dr. Joseph Stone",
+        "position": "Social research officer, government",
+        "department": {
+            "id": "D040",
+            "name": "Enhance",
+            "manager": {
+                "id": "M7284",
+                "name": "James Wallace",
+                "contact": {
+                    "email": "whitemichelle@example.com",
+                    "phone": "(321)981-9006x629"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P5383",
+                "projectName": "Fundamental actuating benchmark",
+                "startDate": "2025-02-27",
+                "tasks": [
+                    {
+                        "taskId": "T920",
+                        "title": "Iterate Bricks-And-Clicks Communities",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 14,
+                            "technologiesUsed": [
+                                "Scikit-learn",
+                                "Java",
+                                "Kubernetes",
+                                "TensorFlow"
+                            ]
+                        }
+                    },
+                    {
+                        "taskId": "T869",
+                        "title": "Envisioneer Transparent E-Markets",
+                        "status": "Pending",
+                        "details": {
+                            "hoursSpent": 63,
+                            "technologiesUsed": [
+                                "Java",
+                                "Scikit-learn",
+                                "Kubernetes",
+                                "Pandas"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+},
+{
+    "employee": {
+        "id": "E00055",
+        "name": "Nicholas Harris",
+        "position": "Scientist, research (life sciences)",
+        "department": {
+            "id": "D007",
+            "name": "Synthesize",
+            "manager": {
+                "id": "M8579",
+                "name": "Andrew Kramer",
+                "contact": {
+                    "email": "sandersdeanna@example.net",
+                    "phone": "001-421-852-8386x28777"
+                }
+            }
+        },
+        "projects": [
+            {
+                "projectId": "P4046",
+                "projectName": "Networked leadingedge forecast",
+                "startDate": "2025-02-14",
+                "tasks": [
+                    {
+                        "taskId": "T921",
+                        "title": "Deploy Dot-Com Channels",
+                        "status": "Completed",
+                        "details": {
+                            "hoursSpent": 24,
+                            "technologiesUsed": [
+                                "Pandas",
+                                "JavaScript",
+                                "Python"
+                            ],
+                            "completionDate": "2025-04-07"
+                        }
+                    },
+                    {
+                        "taskId": "T205",
+                        "title": "Transition Compelling Paradigms",
+                        "status": "In Progress",
+                        "details": {
+                            "hoursSpent": 39,
+                            "technologiesUsed": [
+                                "Scikit-learn",
+                                "PyTorch",
+                                "Pandas",
+                                "SQL"
+                            ],
+                            "expectedCompletion": "2025-09-11"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
+]
