@@ -1,10 +1,14 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var age = 25;
-if (age < 18) {
-    console.log("Minor");
+function greet(name) {
+    return `Hello, ${name}`;
 }
-else {
-    console.log("Adult");
-}
+const userName = "World";
+console.log(greet(userName));
+// type checking example
+// Annotation
+let compayName = "OpenAI";
+// Inference
+let num = 42;
+console.log(`Company: ${compayName}, Number: ${num}`);
 //# sourceMappingURL=index.js.map

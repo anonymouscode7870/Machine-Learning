@@ -1,7 +1,15 @@
-var age: number = 25;
-if(age < 18) {
-    console.log("Minor");
-} else {
-    console.log("Adult");
+function greet(name: string): string{
+    return `Hello, ${name}`;
 }
 
+const userName: string = "World";
+console.log(greet(userName));
+
+// type checking example
+// Annotation
+let compayName: string = "OpenAI";
+
+// Inference
+let num  = 42;
+
+console.log(`Company: ${compayName}, Number: ${num}`);
